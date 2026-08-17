@@ -219,7 +219,9 @@ La dernière tâche du DAG vérifie que les données ont correctement été char
 \## 📊 Dashboard Metabase
 
 
+### Aperçu du dashboard
 
+![Sazotech Sales Dashboard](images/metabase-dashboard.png)
 Metabase est connecté à PostgreSQL afin de construire un dashboard commercial à partir des données générées par le pipeline.
 
 
@@ -472,7 +474,9 @@ http://localhost:8084
 
 Le DAG à utiliser est :
 
+### Aperçu du pipeline Airflow
 
+![Pipeline Apache Airflow](images/airflow-dag.png)
 
 ```text
 
