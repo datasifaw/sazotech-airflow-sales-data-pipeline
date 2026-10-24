@@ -6,7 +6,7 @@ Projet Data Engineering mettant en place un pipeline ETL automatisé permettant 
 
 
 
-\## 🎯 Objectif du projet
+\## 🎯 Objectif du projet : 
 
 
 
