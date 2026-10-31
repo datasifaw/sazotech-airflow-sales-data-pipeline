@@ -1,4 +1,4 @@
-\# 🚀 Sazotech Airflow Sales Data Pipeline :
+\# 🚀 Sazotech Airflow Sales Data Pipeline
 
 
 
@@ -6,11 +6,11 @@ Projet Data Engineering mettant en place un pipeline ETL automatisé permettant 
 
 
 
-\## 🎯 Objectif du projet : 
+\## 🎯 Objectif du projet 
 
 
 
-L'objectif est de construire une chaîne de traitement de données complète et reproductible :
+L'objectif est de construire une chaîne de traitement de données complète et reproductible
 
 
 
